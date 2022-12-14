@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>The Nouns Foundation</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="https://foundation.nouns.wtf/"/>
+ <updated>2022-12-16T11:57:50-05:00</updated>
+ <id>https://foundation.nouns.wtf</id>
+ <author>
+   <name>The Nouns Foundation</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>An update from The Nouns Foundation</title>
+   <link href="https://foundation.nouns.wtf/2022/12/13/introduction/"/>
+   <updated>2022-12-13T00:00:00-05:00</updated>
+   <id>https://foundation.nouns.wtf/2022/12/13/introduction</id>
+   <content type="html">&lt;p&gt;Hi Everyone,&lt;/p&gt;
+
+&lt;p&gt;We wanted to provide a brief update from the Nouns Foundation to share some news and let you know that we’re still active and doing our best to support the protocol.&lt;/p&gt;
+
+&lt;p&gt;First, the news: Dom Hofman resigned from the board to focus his energy on his new startup, &lt;a href=&quot;https://sup.xyz/&quot;&gt;Sup&lt;/a&gt;. Dom has been replaced by Chris Padovano.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Sup has continued to grow and take up an increasing amount of my time, so a few weeks ago I asked the board to appoint a new director in my place. I’m grateful for the accommodation and am excited to see what Chris’ expertise bring to the table.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Nouns pioneered (and continues to pioneer!) new concepts and values that we now know are incredibly important and transformative in our space. The decision to go CC0 has influenced countless other projects, and that’s just one small example. I can’t wait to see where it goes next.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Chris Padovano is a licensed attorney and co-founder of SCP. Before SCP he spent his time bootstrapping early stage cryptocurrency projects like MakerDAO. He is a 2014 graduate of Boston University School of Law and a proud Nouner.&lt;/p&gt;
+
+&lt;p&gt;As an active Nouner and Lawyer, Chris had been advising us on several important matters in advance of his appointment, and we’re looking forward to adding his expertise directly to the Foundation board. We’d also like to (whenever possible) start relying on experts within the Nouner community in favour of relying on external consultants. Chris joining the board of the Foundation is an important step in this direction.&lt;/p&gt;
+
+&lt;p&gt;With this change, the board now consists of:&lt;/p&gt;
+
+&lt;p&gt;Vapeape (nounder, &lt;a href=&quot;https://twitter.com/punk4464&quot;&gt;@punk4464&lt;/a&gt; on Twitter)&lt;br /&gt;
+4156 (nounder, &lt;a href=&quot;https://twitter.com/punk4156&quot;&gt;@punk4156&lt;/a&gt; on Twitter)&lt;br /&gt;
+Noun 40 (nouner, &lt;a href=&quot;https://twitter.com/noun40__&quot;&gt;@noun40__&lt;/a&gt; on Twitter)&lt;br /&gt;
+Chris Padovano (nouner, chris4000 on Telegram)&lt;br /&gt;
+Dor Levi (independent)&lt;br /&gt;
+Campbell Law (independent)&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading. We’ll be following up in early January with more details about the Foundation’s 2022 activities, our objectives for the year ahead.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
