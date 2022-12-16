@@ -7,9 +7,9 @@ Hi Everyone,
 
 We wanted to provide a brief update from the Nouns Foundation to share some news and let you know that we’re still active and doing our best to support the protocol. 
 
-First, the news: Dom Hofman resigned from the board to focus his energy on his new startup, [Sup](https://sup.xyz/). Dom has been replaced by Chris Padovano.
+First, the news: Dom Hofmann resigned from the board to focus his energy on his new startup, [Sup](https://sup.xyz/). Dom has been replaced by Chris Padovano.
 
-<em>"Sup has continued to grow and take up an increasing amount of my time, so a few weeks ago I asked the board to appoint a new director in my place. I'm grateful for the accommodation and am excited to see what Chris' expertise bring to the table.</em>
+<em>"Sup has continued to grow and take up an increasing amount of my time, so a few weeks ago I asked the board to appoint a new director in my place. I'm grateful for the accommodation and am excited to see what Chris' expertise bring to the table.</em>	
 
 <em>Nouns pioneered (and continues to pioneer!) new concepts and values that we now know are incredibly important and transformative in our space. The decision to go CC0 has influenced countless other projects, and that's just one small example. I can't wait to see where it goes next."</em>
 
