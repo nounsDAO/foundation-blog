@@ -27,4 +27,4 @@ Chris Padovano (nouner, chris4000 on Telegram)
 Dor Levi (independent)  
 Campbell Law (independent)
 
-Thanks for reading. We’ll be following up in early January with more details about the Foundation’s 2022 activities, our objectives for the year ahead.
+Thanks for reading. We’ll be following up in early January with more details about the Foundation’s 2022 activities and our objectives for the year ahead.
