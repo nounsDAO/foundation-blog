@@ -4,7 +4,7 @@
  <title>The Nouns Foundation</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-09-06T08:37:23-04:00</updated>
+ <updated>2024-09-06T09:28:58-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>The Nouns Foundation</name>
@@ -42,7 +42,7 @@
 &lt;p&gt;Becoming a DUNA requires changes to how the DAO operates. DUNAs, like most other legal entity structures, have significant reporting and compliance obligations that must be met. The Nouns Foundation has been working with its advisors to determine how the DAO would have to be modified to comply with these obligations, as well as the ongoing expenses for the management and maintenance of this legal structure. Here are a few examples of our requirements under the DUNA structure and the reasons they exist:&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Requirement A:&lt;/strong&gt; Replace the current fork mechanism with a new refund mechanism.&lt;br /&gt;
-&lt;em&gt;Reason: The current fork mechanism, in addition to creating arbitrage opportunities that run counter to the DAO’s ethos and threaten its viability, is incompatible with the Wyoming DUNA legal structure. Additional details regarding the proposed refund mechanism are detailed in a separate post&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;Reason: The current fork mechanism, in addition to creating arbitrage opportunities that run counter to the DAO’s ethos and threaten its viability, is incompatible with the Wyoming DUNA legal structure. Additional details regarding the proposed refund mechanism can be found &lt;a href=&quot;https://mirror.xyz/verbsteam.eth/jFi5T0aehwZws7Q6jdRn8xZmORu25TiyWz4G5LAHuaU&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Requirement B:&lt;/strong&gt; Conduct KYC (limited to DAO grant recipients), and perform sanctions checks for wallets bidding on Nouns DAO auctions (using Chainalysis)&lt;br /&gt;
 &lt;em&gt;Reason: The DUNA would be required to comply with tax and AML/OFAC sanctions regulations.&lt;/em&gt;&lt;/p&gt;
